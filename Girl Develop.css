@@ -20,17 +20,15 @@ background-color: lightcoral;
     
 }#GirlDevelopIt {width:800px; height:400px; }
 
-main  {
+body  {
 
 background-color: lightpink
 
 }
 
-#GirlsWithLaptops {width:400px; height:200px; }
-#NotBoyfriendPC   {width:400px; height:200px; }
+#GirlsWithLaptops {width:400px; height:200px; float:right; }
+#NotBoyFriendPC   {width:400px; height:200px; float:right; }
 footer {
-    
-background-color: lightpink
     
 }
 h1 {
@@ -39,3 +37,9 @@ h1 {
 h2 {
     font-family:cursive
 }
+main {
+    font-family: sans-serif
+}
+
+/*Links*/
+a:hover, a:focus {color: fuchsia; text-decoration-color: underline; font-size: 150%}
