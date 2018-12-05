@@ -1,0 +1,41 @@
+/*
+Name
+Due Date
+Project Name and Description
+*/
+
+/* The universal selector */
+
+*  {
+
+}
+
+/* Body attributes here */
+
+header {
+    
+background-color: lightcoral;
+    text-align: center;
+
+    
+}#GirlDevelopIt {width:800px; height:400px; }
+
+main  {
+
+background-color: lightpink
+
+}
+
+#GirlsWithLaptops {width:400px; height:200px; }
+#NotBoyfriendPC   {width:400px; height:200px; }
+footer {
+    
+background-color: lightpink
+    
+}
+h1 {
+    font-family: cursive
+}
+h2 {
+    font-family:cursive
+}
